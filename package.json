@@ -1,0 +1,12 @@
+{
+  "name": "inlinecss",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/fuchu-bros/inlinecss.git",
+  "author": "fuchu-bros <ozworks@kakao.com>",
+  "license": "MIT",
+  "dependencies": {
+    "autoprefixer-core": "^6.0.1",
+    "node-sass": "^6.0.0"
+  }
+}
